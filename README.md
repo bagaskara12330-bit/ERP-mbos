@@ -43,7 +43,6 @@ $username = 'root';
 $password = ''; // Kosongkan jika default XAMPP
 Buka browser dan akses sistem melalui: http://localhost/mbos-erp
 📸 Tangkapan Layar (Screenshots)
-(Silakan tambahkan gambar screenshot aplikasi Anda di sini. Gunakan format markdown ![Deskripsi](url-gambar))
 
 Dashboard Utama & Grafik Downtime:
 <img width="1270" height="886" alt="Screenshot 2026-08-04 101020" src="https://github.com/user-attachments/assets/7aa03a91-1455-4416-a89f-fc3c35068a6d" />
